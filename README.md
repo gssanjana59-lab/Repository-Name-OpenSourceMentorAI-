@@ -1,3 +1,5 @@
+<img width="1366" height="768" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/fe050455-0fb8-404a-9f48-ace1ecd35596" />
+<img width="1366" height="768" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/c151778a-489d-42e2-95ba-a7c7c669512c" />
 # 🚀 OpenSource Mentor AI
 
 OpenSource Mentor AI helps developers analyze their GitHub profiles and receive personalized recommendations to improve their open-source journey.
