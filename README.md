@@ -1,6 +1,7 @@
-<img width="346" height="633" alt="Screenshot 2026-06-05 202037" src="https://github.com/user-attachments/assets/8a1a89dd-3503-4bd7-8906-078c5127a716" />
-<img width="705" height="634" alt="Screenshot 2026-06-05 201836" src="https://github.com/user-attachments/assets/9f83f5a7-9442-4334-9e93-61c520b99863" />
-<img width="1351" height="640" alt="Screenshot 2026-06-05 201735" src="https://github.com/user-attachments/assets/ff428259-a50a-43a2-a721-753f656786b1" />
+<img width="517" height="635" alt="Screenshot 2026-06-05 221837" src="https://github.com/user-attachments/assets/4e02e967-d96d-4722-8e10-44c4b51f8fea" />
+<img width="1363" height="638" alt="Screenshot 2026-06-05 222111" src="https://github.com/user-attachments/assets/4a8999c9-b68b-457e-acc6-c8f2a54edd07" />
+<img width="532" height="634" alt="Screenshot 2026-06-05 222030" src="https://github.com/user-attachments/assets/62bea9c7-e881-4de9-a3b9-d887bcaf4fc1" />
+https://v0-project-etyqcc0ku-gssanjana59-labs-projects.vercel.app
 
 # 🚀 OpenSource Mentor AI
 
