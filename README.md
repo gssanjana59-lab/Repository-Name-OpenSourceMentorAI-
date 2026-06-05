@@ -1,5 +1,6 @@
-<img width="1366" height="768" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/fe050455-0fb8-404a-9f48-ace1ecd35596" />
-<img width="1366" height="768" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/c151778a-489d-42e2-95ba-a7c7c669512c" />
+<img width="705" height="634" alt="Screenshot 2026-06-05 201836" src="https://github.com/user-attachments/assets/9f83f5a7-9442-4334-9e93-61c520b99863" />
+<img width="1351" height="640" alt="Screenshot 2026-06-05 201735" src="https://github.com/user-attachments/assets/ff428259-a50a-43a2-a721-753f656786b1" />
+
 # 🚀 OpenSource Mentor AI
 
 OpenSource Mentor AI helps developers analyze their GitHub profiles and receive personalized recommendations to improve their open-source journey.
